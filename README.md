@@ -138,9 +138,7 @@ Business Recommendations
 
 
 
-\*Target by profile, not by volume - Subscription rates vary noticeably by job and 
-
-education (see section 3) - management customers subscribe at roughly 14% vs. blue-collar at roughly 10% (\~1.4x, estimated from the job/education mix, since exact per-job rates weren't saved in your output). Prioritize these segments for outbound calls instead of calling everyone equally.
+\*Target by profile, not by volume - Subscription rates vary noticeably by job and education (see section 3) - management customers subscribe at roughly 14% vs. blue-collar at roughly 10% (\~1.4x, estimated from the job/education mix, since exact per-job rates weren't saved in your output). Prioritize these segments for outbound calls instead of calling everyone equally.
 
 
 
